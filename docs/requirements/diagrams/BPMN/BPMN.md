@@ -14,6 +14,14 @@ Diagrama de BPMN relacionado ao fluxo de monitoramento de sinais vitais durante 
 
 ## 2. Descrição
 
+Diagrama de BPMN do cadastro de pacientes por parte do responsável.
+
+![diagrama NFR](img/BPMN_02_GerenciarPaciente.png)
+
+# Diagrama de BPMN: Gerenciar Evento
+
+## 2. Descrição
+
 Diagrama de BPMN do cadastro de pessoas idosas por parte do responsável.
 
 ![diagrama NFR](img/BPMN_02_GerenciarPessoaIdosa.png)

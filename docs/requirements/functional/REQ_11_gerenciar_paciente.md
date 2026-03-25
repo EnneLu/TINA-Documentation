@@ -41,4 +41,4 @@
 - O sistema deve garantir a segurança das informações pessoais e de saúde da paciente, conforme políticas de privacidade e proteção de dados.
 
 **8. Diagramas**  
-- [BPMN](https://github.com/EnneLu/TINA-Requisitos/blob/main/docs/requirements/diagrams/BPMN/img/BPMN_02_GerenciarPessoaIdosa.png)
+- [BPMN](https://github.com/EnneLu/TINA-Requisitos/blob/main/docs/requirements/diagrams/BPMN/img/BPMN_02_GerenciarPaciente.png)

@@ -8,4 +8,4 @@ title: Diagrama Caso de Uso
 
 Diagrama completo de caso de uso do sistema.
 
-![diagrama NFR](img/UC.png)
+![diagrama UC](img/UC.png)

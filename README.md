@@ -4,7 +4,7 @@
 Este repositório possui como objetivo centralizar todos os artefatos gerados para o sistema titulado como TINA, tal sistema foi pensando inicialmente no ano 2020 no curso Técnico de Informática para Internet (IF), em seguida foi aprimorado e repensado considerando as disciplinas, Análise Orientada a Objeto e Engenharia de Requisitos, do curso de Bacharelado em Técnologia da Informação (UFRN). Portanto o TINA, continuou seu desenvolvimento até o estado que se encontra hoje atualizado neste repositório. Inicialmente a aplicação foi pensada por um grupo de alunos do curso técnico, entretanto apenas a autora deste repositório continuou com o projeto de documentação, sendo por fim toda documentação de sua autoria.
 
 ## Problema
-A gestão manual das rotinas de saúde e bem-estar de pessoas idosas e/ou pessoas necessitadas de acompanhamento, apresentam diversos desafios a familiares e/ou cuidadores, como:
+A gestão manual das rotinas de saúde e bem-estar de pessoas idosas e/ou pessoas necessitadas de acompanhamento, definidas neste sistema como "Pacientes", apresentam diversos desafios a familiares e/ou cuidadores, como:
 
 - Falta de acompanhamento eficaz das atividades diárias;
 - Dificuldade em manter uma rotina saudável e organizada;
@@ -26,7 +26,6 @@ Para entendimento dos usuários do sistema e seus casos de uso, sugiro ler os di
     - **BPMN/**: Diagrama BPMN.
     - **UC/**: Diagrama de Caso de Uso.
     - **Estado/**: Diagramas de estado.
-    - **NFR/**: Diagramas NFR.
     - **UC/**: Diagramas de casos de uso.
   - **functional/**: Requisitos funcionais.
   - **non_functional/**: Requisitos não funcionais.
@@ -41,7 +40,6 @@ Para entendimento dos usuários do sistema e seus casos de uso, sugiro ler os di
 - **Medicamentos**: Cronograma de medicações utilizadas pelo paciente;
 - **Rotina Diária:**: Eventos, medicamentos e hábitos planejados para o dia.
 - **Alerta:** Notificação automática gerada pelo sistema para lembrar o usuário de eventos ou situações de risco.
-- **Prescrição Médica:** Documento com a indicação de medicamentos e dosagens recomendadas pelo médico do idoso, anexado ao perfil do usuário para controle de saúde.
 - **Solicitação:** Documento refente a solicitações médicas feitas em consultas, sendo exames ou encaminhamento.
 
 ## Legislações
